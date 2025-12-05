@@ -90,12 +90,6 @@ const phantium = {
 ## ⬢ SYSTEM METRICS
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=phantium&hide_border=true&background=0d1117&ring=0FF0FC&fire=ff00ff&currStreakLabel=0FF0FC&sideLabels=0FF0FC&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555"/>
-
-</div>
-
-<div align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantium&theme=transparent"/>
 
