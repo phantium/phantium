@@ -13,7 +13,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0FF0FC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Sr.+DevOps+Engineer;%3E+Full+Stack+Developer;%3E+Building+the+future%2C+one+commit+at+a+time)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0FF0FC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Principal+DevOps+Engineer;%3E+Full+Stack+Developer;%3E+Building+the+future%2C+one+commit+at+a+time)
 
   <img src="https://komarev.com/ghpvc/?username=phantium&style=for-the-badge&color=0FF0FC&label=PROFILE+SCANS"/>
 
