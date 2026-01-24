@@ -25,7 +25,7 @@
 // ⚡ SYSTEM INITIALIZATION
 const phantium = {
     location: "The Grid",
-    role: ["Sr. DevOps Engineer", "Full Stack Developer"],
+    role: ["Principal DevOps Engineer", "Full Stack Developer"],
     mission: "Developing new exciting things!",
     status: "Online",
 };
